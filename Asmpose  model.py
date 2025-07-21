@@ -14,7 +14,7 @@ from collections import OrderedDict
 import copy
 from typing import Optional, List
 from mamba_ssm.ops.selective_scan_interface import selective_scan_fn
-from classification.models.vmamba import VSSBlock_gather_4
+from vmamba import VSSBlock_gather_4
 from einops import rearrange, repeat
 
 
