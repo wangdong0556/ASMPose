@@ -8,7 +8,7 @@ This repository currently contains a single demo file that demonstrates how to p
 
 ## 🔗 Related Work
 
-- [vMamba](https://github.com/MzeroMiko/VMamba). 
+- [MambaVision](https://github.com/NVlabs/MambaVision) and [vMamba](https://github.com/MzeroMiko/VMamba).
 
 ## 📁 Files
 
