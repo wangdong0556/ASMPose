@@ -1,18 +1,18 @@
 # ASMPose
 
-ASMPose is a human pose estimation implementation based on the [vMamba](https://github.com/MzeroMiko/VMamba) framework. This project explores the use of structured state-space models for efficient keypoint detection.
+ASMPose is a human pose estimation implementation based on the Mamba framework. This project explores the use of structured state-space models for efficient keypoint detection.
 
 ## 📄 Project Description
 
-This repository currently contains a single demo file that demonstrates how to perform human pose estimation using vMamba. The method leverages the long-sequence modeling capability of vMamba to capture both local and global dependencies between keypoints.
+This repository currently contains a single demo file that demonstrates how to perform human pose estimation using Mamba. The method leverages the long-sequence modeling capability of Mamba to capture both local and global dependencies between keypoints.
 
 ## 🔗 Related Work
 
-- [vMamba](https://github.com/MzeroMiko/VMamba): The backbone framework used in this implementation.
+- [vMamba](https://github.com/MzeroMiko/VMamba). 
 
 ## 📁 Files
 
-- `asmpose_demo.py`: A basic script implementing human pose estimation using vMamba.
+- `asmpose_demo.py`: A basic script implementing human pose estimation using Mamba.
 
 ## 🚀 Quick Start
 
@@ -20,4 +20,4 @@ This repository currently contains a single demo file that demonstrates how to p
    ```bash
    git clone https://github.com/your-username/asmpose.git
    cd asmpose
-# ASMPose can be implemented based on the architectural settings of both **vMamba(https://github.com/MzeroMiko/VMamba)** and **TransPose(https://github.com/yangsenius/TransPose)**, combining the advantages of state-space modeling and spatial feature aggregation for accurate pose estimation.
+# Our released code demonstrates the implementation of Mamba-based human pose estimation, including detailed designs of the proposed modules.
