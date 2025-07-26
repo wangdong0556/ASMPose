@@ -12,7 +12,7 @@ This repository currently contains a single demo file that demonstrates how to p
 
 ## 📁 Files
 
-- `asmpose_demo.py`: A basic script implementing human pose estimation using Mamba.
+- `ASMPose model.py`: A basic script implementing human pose estimation using Mamba.
 
 ## 🚀 Quick Start
 
