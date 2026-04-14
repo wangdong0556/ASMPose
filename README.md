@@ -20,4 +20,5 @@ This repository currently contains a single demo file that demonstrates how to p
    ```bash
    git clone https://github.com/your-username/asmpose.git
    cd asmpose
+
 # Our released code demonstrates the implementation of Mamba-based human pose estimation, including detailed designs of the proposed modules.
