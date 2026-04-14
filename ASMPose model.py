@@ -1,5 +1,5 @@
 
-# Thanks Vmamba!
+# Thanks the Vmamba!
 # Copyright (c) Hefei University of Technology. 
 
 from __future__ import absolute_import
